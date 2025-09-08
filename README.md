@@ -1,5 +1,5 @@
 ### ARTHUR PREZOTTO ANDRADE
-Repositórios RICO estão privados e/ou em org 
+# Repositórios RICO estão privados e/ou em org 
 
 <div>
   <a href="https://github.com/arthurprezottoandrade">
