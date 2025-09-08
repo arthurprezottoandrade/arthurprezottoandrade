@@ -1,5 +1,5 @@
 ## ARTHUR PREZOTTO ANDRADE
-### Repositórios RICO e VETOR estão privados e/ou em org 
+### Repositórios RICO, VETOR, BNC estão privados e/ou em org 
 
 <div>
   <a href="https://github.com/arthurprezottoandrade">
